@@ -10,22 +10,22 @@ using System.Windows.Forms;
 
 namespace EmployeeManagementSystem
 {
-    public partial class Form1 : Form
+    public partial class RegisterForm : Form
     {
-        public Form1()
+        public RegisterForm()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void register_exit_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void login_singupBtn_Click(object sender, EventArgs e)
+        private void register_singIn_Click(object sender, EventArgs e)
         {
-            RegisterForm regForm = new RegisterForm();
-            regForm.Show();
+            Form1 loginForm = new Form1();
+            loginForm.Show();
             this.Hide();
         }
     }
