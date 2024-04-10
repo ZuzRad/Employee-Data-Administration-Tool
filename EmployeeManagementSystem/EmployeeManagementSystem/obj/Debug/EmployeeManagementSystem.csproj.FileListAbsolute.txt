@@ -1,0 +1,10 @@
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
