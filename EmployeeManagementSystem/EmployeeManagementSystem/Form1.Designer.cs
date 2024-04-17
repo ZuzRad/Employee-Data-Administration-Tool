@@ -156,8 +156,10 @@
             this.login_pass.Location = new System.Drawing.Point(301, 199);
             this.login_pass.Multiline = true;
             this.login_pass.Name = "login_pass";
+            this.login_pass.PasswordChar = '*';
             this.login_pass.Size = new System.Drawing.Size(262, 30);
             this.login_pass.TabIndex = 6;
+            this.login_pass.TextChanged += new System.EventHandler(this.login_pass_TextChanged);
             // 
             // label4
             // 
@@ -179,6 +181,7 @@
             this.login_showPass.TabIndex = 7;
             this.login_showPass.Text = "Show Password";
             this.login_showPass.UseVisualStyleBackColor = true;
+            this.login_showPass.CheckedChanged += new System.EventHandler(this.login_showPass_CheckedChanged);
             // 
             // login_loginBtn
             // 
@@ -196,6 +199,7 @@
             this.login_loginBtn.TabIndex = 8;
             this.login_loginBtn.Text = "LOGIN";
             this.login_loginBtn.UseVisualStyleBackColor = false;
+            this.login_loginBtn.Click += new System.EventHandler(this.login_loginBtn_Click);
             // 
             // Form1
             // 

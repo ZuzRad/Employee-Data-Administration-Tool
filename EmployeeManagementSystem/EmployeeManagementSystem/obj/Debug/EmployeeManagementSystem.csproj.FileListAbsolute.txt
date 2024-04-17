@@ -9,3 +9,4 @@ E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagement
 E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
 E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
 E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+E:\GitHub\Employee-Management-System\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
