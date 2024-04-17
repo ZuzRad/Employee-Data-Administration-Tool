@@ -1,7 +1,8 @@
 # Employee Data Administration Tool
 
 
-![empoyee](https://github.com/ZuzRad/Employee-Data-Administration-Tool/assets/107064508/3b8a7fea-43ae-4555-b98c-19b81be26f33)
+![empoyee](https://github.com/ZuzRad/Employee-Data-Administration-Tool/assets/107064508/f4523067-5bd9-48f8-8c90-6ff007e94507)
+
 
 ## 📖 Table of Contents
 * [General Information](https://github.com/ZuzRad/Employee-Data-Administration-Tool#-general-information)
