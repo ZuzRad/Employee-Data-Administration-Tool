@@ -61,6 +61,7 @@
             this.register_Btn.TabIndex = 17;
             this.register_Btn.Text = "REGISTER";
             this.register_Btn.UseVisualStyleBackColor = false;
+            this.register_Btn.Click += new System.EventHandler(this.register_Btn_Click);
             // 
             // register_showPass
             // 
@@ -72,6 +73,7 @@
             this.register_showPass.TabIndex = 16;
             this.register_showPass.Text = "Show Password";
             this.register_showPass.UseVisualStyleBackColor = true;
+            this.register_showPass.CheckedChanged += new System.EventHandler(this.register_showPass_CheckedChanged);
             // 
             // register_pass
             // 
@@ -79,6 +81,7 @@
             this.register_pass.Location = new System.Drawing.Point(301, 199);
             this.register_pass.Multiline = true;
             this.register_pass.Name = "register_pass";
+            this.register_pass.PasswordChar = '*';
             this.register_pass.Size = new System.Drawing.Size(262, 30);
             this.register_pass.TabIndex = 15;
             // 

@@ -28,5 +28,10 @@ namespace EmployeeManagementSystem
             regForm.Show();
             this.Hide();
         }
+
+        private void login_username_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

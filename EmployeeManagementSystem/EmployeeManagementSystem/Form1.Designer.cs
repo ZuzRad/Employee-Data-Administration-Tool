@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.login_singupBtn = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -40,7 +41,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.login_showPass = new System.Windows.Forms.CheckBox();
             this.login_loginBtn = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -58,6 +58,15 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(281, 400);
             this.panel1.TabIndex = 0;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::EmployeeManagementSystem.Properties.Resources.menu_icon;
+            this.pictureBox1.Location = new System.Drawing.Point(88, 95);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox1.TabIndex = 10;
+            this.pictureBox1.TabStop = false;
             // 
             // login_singupBtn
             // 
@@ -139,6 +148,7 @@
             this.login_username.Name = "login_username";
             this.login_username.Size = new System.Drawing.Size(262, 30);
             this.login_username.TabIndex = 4;
+            this.login_username.TextChanged += new System.EventHandler(this.login_username_TextChanged);
             // 
             // login_pass
             // 
@@ -186,15 +196,6 @@
             this.login_loginBtn.TabIndex = 8;
             this.login_loginBtn.Text = "LOGIN";
             this.login_loginBtn.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::EmployeeManagementSystem.Properties.Resources.menu_icon;
-            this.pictureBox1.Location = new System.Drawing.Point(88, 95);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox1.TabIndex = 10;
-            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
