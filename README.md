@@ -7,7 +7,6 @@
 * [General Information](https://github.com/ZuzRad/Employee-Data-Administration-Tool#-general-information)
 * [Game Features](https://github.com/ZuzRad/Employee-Data-Administration-ToolI#-game-features)
 * [Learning goals](https://github.com/ZuzRad/Employee-Data-Administration-Tool#-learning-goals)
-* [Controls](https://github.com/ZuzRad/Employee-Data-Administration-Tool#-controls)
 * [Project status](https://github.com/ZuzRad/Employee-Data-Administration-Tool#-project-status)
 
 ## 📝 General Information
