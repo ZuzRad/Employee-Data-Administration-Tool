@@ -29,4 +29,4 @@ List of features that the application includes.
 
 
 ## 🌱 Project Status
-Project completed
+Project in progress
